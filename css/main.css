@@ -1,0 +1,18 @@
+body {
+  background-color: #333;
+  color: #efefef;
+}
+.main-content {
+  min-height: 120vh;
+}
+.footer {
+  /* width: 100%; */
+  background-color: #222;
+  /* padding: 5px; */
+}
+.footer-content {
+  padding: 5px;
+  color: #777;
+  min-width: 100%;
+  display: block;
+}
